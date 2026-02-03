@@ -1,4 +1,4 @@
-## Terraform & AWS – What I Learned Today
+## AWS – What I Learned Today
 Overview
 
 Today I learned about the AWS and Terraform and understood how Terraform can be used to launch AWS resources, especially an EC2 instance, using Infrastructure as Code instead of manual steps from the AWS console.

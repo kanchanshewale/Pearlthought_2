@@ -36,7 +36,7 @@ Security Group (acts as a firewall)
 
 This is the main service I used with Terraform.
 
-## VPC (Networking Basics)
+## VPC 
 
 I learned that all AWS resources run inside a VPC (Virtual Private Cloud).
 
